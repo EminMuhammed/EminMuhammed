@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Data Science, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://www.youtube.com/Muhammedeminbal](https://www.youtube.com/Muhammedeminbal)
-
-- 📝 I regularly write articles on [http://muhammedbal.com/](http://muhammedbal.com/)
+- 👨‍💻 All of my projects are available at [https://www.youtube.com/Muhammedeminbal]
+- 
+- 📝 I regularly write articles on [http://muhammedbal.com/]
 
 - 💬 Ask me about **Data Science,Web Scraping**
 
